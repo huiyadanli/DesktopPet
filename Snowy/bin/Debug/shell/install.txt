@@ -1,0 +1,5 @@
+﻿charset,UTF-8
+type,supplement
+name,果殼-聖誕裝(限定版)
+accept,茶兔
+directory,shell/master

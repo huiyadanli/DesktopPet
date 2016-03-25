@@ -1,0 +1,8 @@
+D:\编程\Projects\CSharp2\Snowy\Snowy\bin\Debug\Snowy.exe
+D:\编程\Projects\CSharp2\Snowy\Snowy\bin\Debug\Snowy.pdb
+D:\编程\Projects\CSharp2\Snowy\Snowy\obj\Debug\Snowy.csprojResolveAssemblyReference.cache
+D:\编程\Projects\CSharp2\Snowy\Snowy\obj\Debug\Snowy.Properties.Resources.resources
+D:\编程\Projects\CSharp2\Snowy\Snowy\obj\Debug\Snowy.csproj.GenerateResource.Cache
+D:\编程\Projects\CSharp2\Snowy\Snowy\obj\Debug\Snowy.exe
+D:\编程\Projects\CSharp2\Snowy\Snowy\obj\Debug\Snowy.pdb
+D:\编程\Projects\CSharp2\Snowy\Snowy\obj\Debug\Snowy.Form1.resources
